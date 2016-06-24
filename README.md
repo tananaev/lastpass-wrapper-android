@@ -1,8 +1,6 @@
 # LastPass Wrapper for Android
 
-[![](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.tananaev.lastpass)
-
-Description coming soon...
+Android app that displays LastPass mobile website in a WebView.
 
 ## Contacts
 
