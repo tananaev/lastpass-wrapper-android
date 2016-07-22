@@ -6,10 +6,11 @@ function removeAll (selector) {
 }
 
 function loadTweaks () {
-    removeAll("#main2 > br");
-    removeAll("body > br");
-    removeAll("#main2 > img");
     removeAll("body > a:nth-child(4)");
+    removeAll("#main2 > div:nth-child(14)");
+    removeAll("#main2 > br");
+    removeAll("#main2 > img");
+    removeAll("body > br");
 }
 
 window.addEventListener("load", function load (event) {
